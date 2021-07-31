@@ -53,3 +53,56 @@ and uh
 added some rivers.
 
 
+31-7-21 | [11:32am - gonna make custom rivers based on rev 6 templating ]
+I have permision to use a bootleg multi noise, vanilla layered thing
+so
+
+i'll be using that
+
+
+okay
+
+so
+
+the rivers
+
+are a copy and paste from the lower river chunk
+
+Here is each of the rivers in order:
+with how they generate.
+
+1: Generates near desert and dark forest? Hot River
+
+2: Generates near Savanna. Dry River
+
+3: Plains, bordering dark foest. Dark River
+
+4: Dark Forest, Bordering Swamp. Dark River
+
+5: Dark Forest, Birch Forest. Deep River
+
+6: Plains, Birch Forest. This one can be rare. - Corrupt River
+
+7: Beach, Plains? - Sandy River
+
+8: birch forest, forest? - tropic river? 
+
+9: Desert, Mountains - Cold River
+
+10: Plains, Taiga - Cold River
+
+11: plains- taiga? - cold river
+
+12: Tundra, Taiga - Cold River
+
+13: Mid Taiga - Modified Cold River
+
+14: Giant Spruce, Taiga - Modified Cold River
+
+15: Giant Spruce, Giant Taiga - Modified Corrupt River
+
+16: Snowy Tundra, Giant Spruce- Modified Sandy River
+
+17: Tundra, Forest - Cold River
+
+18: Plains, Taiga- Cold River
