@@ -14,8 +14,8 @@
     "logical_height": 320,
     "effects": "minecraft:overworld",
     "infiniburn": "minecraft:infiniburn_overworld",
-    "min_y": -512,
-    "height": 832
+    "min_y": -128,
+    "height": 448
   },
   "generator": {
     "type": "minecraft:noise",
