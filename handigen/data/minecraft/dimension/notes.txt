@@ -1,0 +1,64 @@
+alright so. I'll need to build this system.
+
+Therefor I'm gonna be keeping a log of most changes
+and my incentives behinds them
+
+30-7-21 | [10:52am - Log Start]
+I'm gonna set a couple base biomes. then work on rivers.
+
+these base biomes will be under the minecraft namespace
+
+Base Biomes:
+- Plains
+- Desert
+- Taiga
+- Tundra
+- Badlands
+
+Flat Base Biomes:
+- Ocean
+
+uh- lower the value, higher the temperature. that works ig
+
+I'm gonna do multiple badlands biomes with different settings
+
+NO ALRIGHT FUCK THIS
+
+30-7-21 | [12:18pm - okay whatever. new strat. the ocean strat. ]
+
+so i've scrapped the original test.
+
+I'm gonna build up the oceans and do an attraction system.
+
+All base Oceans are now in.
+Plus a plains biome to mark land
+
+hhhhhhhhhhhhhhhhhhhhhhhhhh
+
+ok lets do base biomes
+- Plains
+- Desert
+- Taiga
+- Tundra
+- Badlands
+
+12:21 - badlands 1
+
+
+okay
+
+added beaches in revision 4
+and uh
+
+added some rivers.
+
+
+
+
+okay no
+
+i've failed
+
+
+
+i'll just use smth else as a base
