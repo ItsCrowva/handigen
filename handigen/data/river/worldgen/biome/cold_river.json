@@ -1,6 +1,6 @@
 {
     "surface_builder": "minecraft:grass",
-    "depth": -0.5,
+    "depth": -0.6,
     "scale": 0,
     "temperature": 0.5,
     "downfall": 0.5,
@@ -10,8 +10,8 @@
     "effects": {
       "sky_color": 8103167,
       "fog_color": 12638463,
-      "water_color": 4159204,
-      "water_fog_color": 329011,
+      "water_color": 7379952,
+      "water_fog_color": 2697584,
       "mood_sound": {
         "sound": "minecraft:ambient.cave",
         "tick_delay": 6000,
@@ -178,9 +178,7 @@
         "minecraft:spring_lava",
         "minecraft:seagrass_river"
       ],
-      [
-        "minecraft:freeze_top_layer"
-      ]
+      []
     ]
   }
   

@@ -11,11 +11,11 @@
     "has_ceiling": false,
     "coordinate_scale": 1,
     "ambient_light": 0,
-    "logical_height": 1024,
+    "logical_height": 320,
     "effects": "minecraft:overworld",
     "infiniburn": "minecraft:infiniburn_overworld",
-    "min_y": -1024,
-    "height": 1024
+    "min_y": -512,
+    "height": 832
   },
   "generator": {
     "type": "minecraft:noise",
