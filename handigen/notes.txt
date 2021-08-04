@@ -106,3 +106,42 @@ with how they generate.
 17: Tundra, Forest - Cold River
 
 18: Plains, Taiga- Cold River
+
+4-8-21 | [9:02am - Ore System ]
+
+ok log.
+Time to work on the ore system
+
+The Main Ore Zone will be
+84 to -256
+so uh
+
+we have a lot to work with here
+
+1.17 is -64 to 64 essentially, so uh- this will be tricky
+
+Lets um- do zones.
+
+All Zones bleed into other zones. Major Zones are really intense spawn rates
+
+Ore Zones --------
+
+Copper / Coal Zone - 84 to 52
+Iron Zone - 52 to 12
+Gold Zone - 12 to -32
+Diamond Zone -32 to -50 | Plateau into Major Diamond zone. Diamond Zone however DOES NOT PLATEAU
+Emerald Zone -50 to -150
+Major Diamond Zone -150 to -256
+
+Extra --------
+
+Major Emerald Zones - -200 to -256
+Obsidian Clusters - -84 to -256 | Plateau into these zones. -256 is equal to major zone.
+Obsidian Geodes - -128 to -256
+Magma Clusters - -64 to -256 | Plateau into bottom.
+Magma Geodes - -128 to -256
+Diamond Block - -232 to -256
+Amethyst Geodes - 64 to -12
+Iron Geodes - 32 to -32
+Coal Geodes - 64 to -32
+Diamond Geodes - -128 to -256
