@@ -4,7 +4,7 @@
     "decorator": {
       "type": "minecraft:count",
       "config": {
-        "count": 18
+        "count": 6
       }
     },
     "feature": {
@@ -34,8 +34,8 @@
             "feature": {
               "type": "minecraft:ore",
               "config": {
-                "size": 30,
-                "discard_chance_on_air_exposure": 0,
+                "size": 10,
+                "discard_chance_on_air_exposure": 0.2,
                 "targets": [
                   {
                     "target": {

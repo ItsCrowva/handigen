@@ -145,3 +145,30 @@ Amethyst Geodes - 64 to -12
 Iron Geodes - 32 to -32
 Coal Geodes - 64 to -32
 Diamond Geodes - -128 to -256
+
+######## 4-8-21 | [2:32pm - Ore System #2 ]
+Gonna cutoff World height at -128 again
+
+And Update the ores
+
+Ore Zones --------
+
+Chance | Size | Discard On Air | Name | Height
+8 | 10 | 0.0 | Copper / Coal Zone - 84 to 52
+7 | 08 | 0.2 | Iron Zone: - 52 to 32
+6 | 07 | 0.2 | Gold Zone: - 32 to -12
+5 | 06 | 0.4 | Diamond Zone: -12 to -64 | Plateau into Major Diamond zone.
+4 | 05 | 0.6 | Emerald Zone: -64 to -84
+7 | 10 | 0.2 | Major Diamond Zone: -100 to -128
+
+Extra --------
+
+67njhBY7BH | 10 | 0.2 | Major Emerald Zone - -110 to -128
+Obsidian Clusters - -84 to -128 | Plateau into these zones. -128 is equal to major zone.
+Obsidian Geodes - -108 to -128
+Magma Clusters - -64 to -128 | Plateau into bottom.
+Magma Geodes - -108 to -128
+Amethyst Geodes - 64 to -12
+Iron Geodes - 32 to -32
+Coal Geodes - 64 to -32
+Diamond Geodes - -108 to -128

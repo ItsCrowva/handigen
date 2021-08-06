@@ -19,8 +19,8 @@
     }
   },
   "noise": {
-    "min_y": -256,
-    "height": 576,
+    "min_y": -128,
+    "height": 448,
     "density_factor": 1,
     "density_offset": -0.46875,
     "size_horizontal": 1,
@@ -69,7 +69,7 @@
       "minecraft:desert_pyramid": {
         "spacing": 32,
         "separation": 8,
-        "salt": 14357617
+        "salt": 14344817
       },
       "minecraft:bastion_remnant": {
         "spacing": 27,
@@ -89,7 +89,7 @@
       "minecraft:swamp_hut": {
         "spacing": 32,
         "separation": 8,
-        "salt": 14357620
+        "salt": 14344820
       },
       "minecraft:endcity": {
         "spacing": 20,
@@ -104,7 +104,7 @@
       "minecraft:igloo": {
         "spacing": 32,
         "separation": 8,
-        "salt": 14357618
+        "salt": 14344818
       },
       "minecraft:mansion": {
         "spacing": 80,
@@ -119,12 +119,12 @@
       "minecraft:ocean_ruin": {
         "spacing": 20,
         "separation": 8,
-        "salt": 14357621
+        "salt": 14344821
       },
       "minecraft:jungle_pyramid": {
         "spacing": 32,
         "separation": 8,
-        "salt": 14357619
+        "salt": 14344819
       },
       "minecraft:ruined_portal": {
         "spacing": 40,

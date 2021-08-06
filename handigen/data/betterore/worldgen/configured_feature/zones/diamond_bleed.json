@@ -4,7 +4,7 @@
       "decorator": {
         "type": "minecraft:count",
         "config": {
-          "count": 8
+          "count": 5
         }
       },
       "feature": {
@@ -23,10 +23,10 @@
                   "height": {
                     "type": "minecraft:trapezoid",
                     "min_inclusive": {
-                      "absolute": -150
+                      "absolute": -128
                     },
                     "max_inclusive": {
-                      "absolute": -50
+                      "absolute": -64
                     },
                     "plateau": 5
                   }
@@ -35,8 +35,8 @@
               "feature": {
                 "type": "minecraft:ore",
                 "config": {
-                  "size": 10,
-                  "discard_chance_on_air_exposure": 0,
+                  "size": 6,
+                  "discard_chance_on_air_exposure": 0.4,
                   "targets": [
                     {
                       "target": {
