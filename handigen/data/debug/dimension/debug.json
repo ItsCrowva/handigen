@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:overworld",
+    "generator": {
+      "type": "minecraft:noise",
+      "seed": -952199388,
+      "settings": "minecraft:overworld",
+      "biome_source": {
+        "type": "minecraft:checkerboard",
+        "scale": 1,
+        "biomes": [
+          "river:modified_sandy_river",
+          "river:sandy_river",
+          "river:modified_corrupt_river",
+          "river:corrupt_river",
+          "river:deep_river",
+          "river:tropic_river",
+          "river:cold_river",
+          "river:hot_river",
+          "river:dry_river",
+          "river:modified_cold_river",
+          "dark_forest:dark_forest",
+          "river:dark_river",
+          "dark_forest:dark_forest_hills"
+        ]
+      }
+    }
+  }
+  
